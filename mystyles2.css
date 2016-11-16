@@ -1,0 +1,43 @@
+h1 {
+   font-size: 2em;
+   text-align: right;
+   color: #d912e8;
+   border: 20px solid blue;
+   border-radius: 20px;
+}
+
+p {
+   text-align: right;
+   text-transform: lowercase;
+   color: #cc99ff;
+   border: 10px solid green;
+   font-size: 3em;
+}
+
+body {
+   background-color: #ff33cc;
+}
+
+a {
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   color: orange;
+   border: 5px solid yellow;
+   border-radius: 50px;
+   font-size: 1.3em;
+}
+
+h3 {
+   word-spacing: 2px;
+   text-align: left;
+   border: 8px solid brown;
+   color: #e83d12;
+   text-transform: uppercase;
+}
+
+li {
+   font-size: 20px;
+   color: #6fe812;
+   padding-bottom: 10px;
+   font-size: 2.5em;
+   word-spacing: 16px;
+}
