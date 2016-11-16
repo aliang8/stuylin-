@@ -1,0 +1,24 @@
+h1 {
+   font-size: 5em;
+}
+
+p {
+   text-align: center;
+}
+
+body {
+   background-color: #99ccff;
+}
+
+a {
+   font-family: "Arial Black", Gadget, sans-serif;
+}
+
+h3 {
+   word-spacing: 15px;
+   text-align: right;
+   border: 5px solid red;
+}
+
+
+  
