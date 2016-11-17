@@ -2,7 +2,7 @@
    font-size: 5em;
    text-align: center;
    color: #d912e8;
-   border: 7px double green;
+   border: 1px solid green;
    border-radius: 100px;
 }
 
@@ -10,7 +10,7 @@
    text-align: center;
    text-transform: uppercase;
    color: #cc99ff;
-   border: 10px groove orange;
+   border: 2px solid orange;
    font-size: 3em;
 }
 
@@ -21,7 +21,7 @@
 .navzone {
    font-family: "Arial Black", Gadget, sans-serif;
    color: yellow;
-   border: 9px ridge yellow;
+   border: 2px solid yellow;
    border-radius: 20px;
    font-size: 1.5em;
 }
@@ -29,7 +29,7 @@
 h3 {
    word-spacing: 15px;
    text-align: right;
-   border: 5px dotted red;
+   border: 5px solid red;
    color: #e83d12;
    text-transform: lowercase;
 }
