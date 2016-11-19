@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+	font-family: 'Roboto', serif;	
+	font-size: 12px;
+}
+
+.genesis-nav-menu{
+	clear: both;
+	color: black;
+	font-family: Function, 'Trebuchet MS', Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: 1px;
+	text-align: right;
+}
+
+.genesis-nav-menu a:hover{
+	color: #e242f4;
+	text-decoration: underline;
+}
+
+h1, h2 {
+	text-align: center;
+	animation-name : rainbow;
+    animation-duration : 2s;
+    animation-iteration-count: infinite;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+.recipe-content{
+	padding-left: 4rem;
+	padding-right: 4rem;
+	display: block;
+}
+
+.ingredients{
+	list-style-type: square;
+	font-family: Avenir, Helvetica, Arial, sans-serif;
+	float: left;
+	margin-right: 2%;
+	display: block;
+	width: 49%;
+}
+
+.ingredient-items{
+	font-size: 0.9em;
+	border-bottom: 1px dotted #E6E6E6;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	line-height: 1;
+}
+
+.directions{
+	font-family: Avenir, Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+	float: left;
+	display: block;
+	width: 49%;
+}
+
+.directions-list{
+	position: relative;
+	margin: 0 0 15px 45px;
+}
+
+.recipe-info{
+	border-top: 2px dashed #E6E6E6;
+	border-bottom: 2px dashed #E6E6E6;
+	width: 50%;
+	margin: 2% 5%;
+}
+
+.recipe-info-label{
+	font-family: Avenir, Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	color: #f44242;
+	padding-right: 5px;
+	font-size: 1.2em;
+	text-transform: uppercase;
+}
+
+.recipe-info-item{
+	display: inline-block;
+	padding: 10px 10px;
+	font-size: 1.1em;
+}
+
+@keyframes rainbow {
+    0%   {color : red}
+    14%  {color : orange}
+    28%  {color : yellow}
+    42%  {color : green}
+    56%  {color : lightsteelblue}
+    70%  {color : blue}
+    85%  {color : purple}
+    100% {color : black}
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> This is my site </title>
+    <link rel="stylesheet" type="text/css" href = "mycss.css"> 
+  </head>
+  
+  <body>
+    <div class = "intro">
+      <h1>Sorry, checking all the water in this area; there's an escaped fish.</h1>
+      <p>Father Christmas. Santa Claus. Or as I've always known him: Jeff. I hate yogurt. It's just stuff with bits in. You know how I sometimes have really brilliant ideas? You've swallowed a planet!</p>
+      <p>I am the last of my species, and I know how that weighs on the heart so don't lie to me! All I've got to do is pass as an ordinary human being. <strong> Simple.</strong> <em> What could possibly go wrong?</em> You've swallowed a planet!</p>
+    </div>
+    <div class = "taxi">
+      <h2>I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.</h2>
+      <p>Sorry, checking all the water in this area; there's an escaped fish. Heh-haa! Super squeaky bum time! They're not aliens, they're Earth…liens! Did I mention we have comfy chairs? You hate me; you want to kill me! Well, go on! Kill me! KILL ME!</p>
+    </div>
+    <div class = "crazy">
+      <ol>
+	<li>No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.</li><li>You hate me; you want to kill me! Well, go on! Kill me! KILL ME!</li><li>It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'!</li>
+      </ol>
+    </div>
+    <h3>I am the last of my species, and I know how that weighs on the heart so don't lie to me!</h3>
+    <p>I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. Aw, you're all Mr. Grumpy Face today. *Insistently* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do!</p>
+    <ul>
+      <li>You've swallowed a planet!</li><li>You hit me with a cricket bat.</li><li>Heh-haa! Super squeaky bum time!</li>
+    </ul>
+    
+    <p>No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. I am the last of my species, and I know how that weighs on the heart so don't lie to me!</p>
+    <p>Aw, you're all Mr. Grumpy Face today. I am the Doctor, and you are the Daleks! You've swallowed a planet! You know how I sometimes have really brilliant ideas? Did I mention we have comfy chairs?</p>
+    <p>I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself. It's a fez. I wear a fez now. Fezes are cool. You hit me with a cricket bat. Saving the world with meals on wheels.</p>
+    <p>Sorry, checking all the water in this area; there's an escaped fish. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. Did I mention we have comfy chairs?</p>
+    <p>I am the Doctor, and you are the Daleks! Sorry, checking all the water in this area; there's an escaped fish. They're not aliens, they're Earth…liens! I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.</p>
+    <p>Saving the world with meals on wheels. They're not aliens, they're Earth…liens! Stop talking, brain thinking. Hush. Father Christmas. Santa Claus. Or as I've always known him: Jeff.</p>
+    <p>*Insistently* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! Saving the world with meals on wheels. I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself.</p>
+    <p>I am the Doctor, and you are the Daleks! It's a fez. I wear a fez now. Fezes are cool. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?</p>
+    <p>No… It's a thing; it's like a plan, but with more greatness. Sorry, checking all the water in this area; there's an escaped fish. You know how I sometimes have really brilliant ideas? The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.</p>
+    <p>Father Christmas. Santa Claus. Or as I've always known him: Jeff. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? I hate yogurt. It's just stuff with bits in.</p>
+    <p>You hit me with a cricket bat. Sorry, checking all the water in this area; there's an escaped fish. It's a fez. I wear a fez now. Fezes are cool. Did I mention we have comfy chairs? I am the last of my species, and I know how that weighs on the heart so don't lie to me!</p>
+  </body>
+</html>
